@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://flobsx.github.io/blog/blog</id>
+    <id>https://flobsx.github.io/blog</id>
     <title>flobsx dev blog Blog</title>
     <updated>2024-01-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://flobsx.github.io/blog/blog"/>
+    <link rel="alternate" href="https://flobsx.github.io/blog"/>
     <subtitle>flobsx dev blog Blog</subtitle>
-    <icon>https://flobsx.github.io/blog/img/favicon.ico</icon>
+    <icon>https://flobsx.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Blog personnel avec Docusaurus, Github Pages + Actions]]></title>
-        <id>https://flobsx.github.io/blog/blog/2024/01/16/docusaurus-setup-github-pages</id>
-        <link href="https://flobsx.github.io/blog/blog/2024/01/16/docusaurus-setup-github-pages"/>
+        <id>https://flobsx.github.io/blog/2024/01/16/docusaurus-setup-github-pages</id>
+        <link href="https://flobsx.github.io/blog/2024/01/16/docusaurus-setup-github-pages"/>
         <updated>2024-01-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[L'objectif est de publier un blog sur Github Pages en utilisant Docusaurus et un déploiement automatique.]]></summary>
         <content type="html"><![CDATA[<p>L'objectif est de publier un blog sur Github Pages en utilisant Docusaurus et un déploiement automatique.
@@ -19,7 +19,7 @@ Afin de garder privée les Issues et Pull Request, j'utilise deux dépôts disti
 <li>personal-blog: Dépôt privé contenant les sources, les actions, les issues et PR</li>
 <li>flobsx.github.io: Le Dépôt public automatiquement reconstruit lors des update de personal-blog</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="prérequis">Prérequis<a href="https://flobsx.github.io/blog/blog/2024/01/16/docusaurus-setup-github-pages#pr%C3%A9requis" class="hash-link" aria-label="Lien direct vers Prérequis" title="Lien direct vers Prérequis">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="prérequis">Prérequis<a href="https://flobsx.github.io/blog/2024/01/16/docusaurus-setup-github-pages#pr%C3%A9requis" class="hash-link" aria-label="Lien direct vers Prérequis" title="Lien direct vers Prérequis">​</a></h3>
 <p>Installer :</p>
 <ul>
 <li>Node JS</li>

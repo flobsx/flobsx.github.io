@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpersonal_blog=self.webpackChunkpersonal_blog||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Blog personnel avec Docusaurus, Github Pages + Actions","permalink":"/blog/blog/2024/01/16/docusaurus-setup-github-pages","unlisted":false}]}')}}]);
